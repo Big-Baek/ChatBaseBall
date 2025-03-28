@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\SampleChat\\Source\\SampleChat\\SampleChat.Build.cs",
+		"D:\\UE5\\SampleChat\\Source\\SampleChat.Target.cs",
+		"D:\\UE5\\SampleChat\\Source\\SampleChatEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
